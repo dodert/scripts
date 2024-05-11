@@ -1,5 +1,5 @@
 ## How to make work
-You need to createa and .env file that contains:
+You need to createa and .env file that contains in the same path of the python script:
 ```
 API_KEY="[your api key]"
 BASE_URL="[your base url]"
